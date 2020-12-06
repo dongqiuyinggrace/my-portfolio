@@ -1,0 +1,30 @@
+#hero {
+    background-color: gray;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 100vh;
+
+    background-image: url('../../app/images/mountains.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hero h1, #hero h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+    text-shadow: 2px 2px #000;
+    margin-bottom: 40px;
+}
+
+#hero h1 {
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+

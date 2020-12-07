@@ -1,0 +1,25 @@
+#resume {
+    margin: 60px auto;
+    color: #838c95;
+}
+
+#resume .title {
+    text-align: center;
+}
+
+#resume .title h4{
+    text-transform: uppercase;
+    color: #313131;
+}
+
+#resume .col-8 {
+    margin-left: 30px;
+}
+
+#resume .col-8 h4{
+    color: #313131;
+}
+
+hr {
+    width: 85%;
+}

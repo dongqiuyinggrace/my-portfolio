@@ -1,0 +1,36 @@
+nav {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    z-index: 10;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li{
+    margin-left: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    opacity: .7;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    text-decoration: none;
+    color: #fff;
+    opacity: 1;
+}
+

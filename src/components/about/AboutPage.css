@@ -1,0 +1,46 @@
+h3.title {
+    color: #313131;
+    text-transform: capitalize;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#about.row {
+    margin: 65px auto;
+    max-width: 1000px;
+    color: #838c95;
+    margin-bottom: 65px;
+}
+
+.about-image {
+    text-align: right;
+}
+
+.about-image img {
+    border-radius: 50%;
+}
+
+.contact-details h3 {
+    color: #313131;
+}
+
+.about-contact {
+    margin-top: 30px;
+}
+
+.about-contact .download {
+    margin-top: 30px;
+}
+
+.about-contact .download .btn {
+    background-color: #313131;
+    padding: 15px 35px;
+}
+
+.about-contact .download .btn:hover {
+    background-color: #b54d07;
+}
+
+.about-contact .download .btn .fa-download {
+    margin-right: 4px;
+}
